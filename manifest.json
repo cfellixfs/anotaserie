@@ -1,0 +1,16 @@
+{
+    "name": "Gym App",
+    "short_name": "Ficha de exercícios",
+    "description": "Um app simples para anotar a sua série de treinos",
+    "start_url": "/index.html",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "portrait",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icon512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
